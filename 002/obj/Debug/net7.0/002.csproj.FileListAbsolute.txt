@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\C#_Seminar\002\bin\Debug\net7.0\002.exe
+C:\Users\Nikita\Desktop\C#_Seminar\002\bin\Debug\net7.0\002.deps.json
+C:\Users\Nikita\Desktop\C#_Seminar\002\bin\Debug\net7.0\002.runtimeconfig.json
+C:\Users\Nikita\Desktop\C#_Seminar\002\bin\Debug\net7.0\002.dll
+C:\Users\Nikita\Desktop\C#_Seminar\002\bin\Debug\net7.0\002.pdb
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.dll
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\refint\002.dll
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.pdb
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\002.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\C#_Seminar\002\obj\Debug\net7.0\ref\002.dll
